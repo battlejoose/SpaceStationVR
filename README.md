@@ -1,5 +1,5 @@
 # SpaceStationVR
- BuidlWeek
+ VirtualHackation
 
 ![client](https://github.com/battlejoose/SpaceStationVR/blob/main/docs/bbf004942173b841cfe19fab1038d3f6-png.jpg)
 
