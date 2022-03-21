@@ -1,4 +1,4 @@
-# UnityCryptoVR
+# SpaceStationVR
  BuidlWeek
 
 ![client](https://github.com/battlejoose/SpaceStationVR/blob/main/docs/bbf004942173b841cfe19fab1038d3f6-png.jpg)
@@ -19,7 +19,7 @@ unity setup:
 install unity hub(https://unity3d.com/get-unity/download)
 
 ```
-git clone https://github.com/battlejoose/EthDenverHackathon
+git clone https://github.com/battlejoose/SpaceStationVR
 ```
 
 Open project in unity hub
