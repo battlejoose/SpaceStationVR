@@ -1,7 +1,7 @@
 # UnityCryptoVR
  BuidlWeek
 
-![client](https://github.com/battlejoose/EthDenverHackathon/blob/main/docs/bufficornUI.png)
+![client](https://github.com/battlejoose/EthDenverHackathon/blob/main/docs/bbf004942173b841cfe19fab1038d3f6-png.jpg)
 
 Concept: native bindings for wallets into the unity game engine
 
