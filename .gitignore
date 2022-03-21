@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+EthDenver2022/Library/*
+EthDenver2022/Logs*
+EthDenver2022/Temp/*
+
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
